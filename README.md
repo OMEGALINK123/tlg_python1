@@ -1,2 +1,3 @@
-# tlg_python1
+# TLG Python fundementals Cohort
 Python code for mastering the fundamentals of python
+This will contain the scripts that we'll write in this python class.
